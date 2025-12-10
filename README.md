@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Sushree+Soumya+Priyadarshini;AI+%26+Cybersecurity+Enthusiast;Always+learning+new+things!&center=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Sushree+Soumya&center=true&size=28">
 </h1>
 
 # 💫 About Me:
